@@ -6,7 +6,7 @@ const UpdatedGroups = () => {
   const navigation = useNavigation();
 
   const handleAddButtonPress = () => {
-    navigation.navigate('LastScreen');
+    navigation.navigate('AddGroup');
   };
 
   return (
